@@ -1,0 +1,22 @@
+name: call comment on gist
+
+on:
+  workflow_dispatch:
+    inputs:
+      gist_id:
+        description: 'Gist ID to comment on'
+        required: true
+        type: string
+      comment:
+        description: 'Comment text'
+        required: true
+        type: string
+
+jobs:
+  comment:
+    uses: devinschumacher/workflows/.github/workflows/comment-on-gist.yml@main
+    with:
+      gist_id: ${{ github.event.inputs.gist_id }}
+      comment: ${{ github.event.inputs.comment }}
+    secrets:
+      GH_PAT: ${{ secrets.GH_PAT }}

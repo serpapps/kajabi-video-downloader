@@ -1,0 +1,22 @@
+name: call update gist
+
+on:
+  workflow_dispatch:
+    inputs:
+      gist_id:
+        description: 'Gist ID to update'
+        required: true
+        type: string
+      file_path:
+        description: 'Path to the markdown file'
+        required: true
+        type: string
+
+jobs:
+  update:
+    uses: devinschumacher/workflows/.github/workflows/update-gist.yml@main
+    with:
+      gist_id: ${{ github.event.inputs.gist_id }}
+      file_path: ${{ github.event.inputs.file_path }}
+    secrets:
+      GH_PAT: ${{ secrets.GH_PAT }}
