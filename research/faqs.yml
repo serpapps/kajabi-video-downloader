@@ -1,0 +1,41 @@
+# FAQ for serpapps/kajabi-video-downloader
+# Generated on: 2025-09-20T09:33:28.985Z
+# Status: completed
+
+repository: "serpapps/kajabi-video-downloader"
+service_name: "Kajabi"
+research_status: "completed"
+
+faqs:
+  - question: "How can I download Kajabi courses for offline viewing?"
+    answer: "To download Kajabi courses, you typically need: 1) An active subscription or course purchase, 2) Official Kajabi mobile app (if available for offline viewing), 3) Third-party tools (use with caution). Always check Kajabi's terms of service and only download content you've legitimately purchased or have access to."
+    source: "expert_knowledge_base"
+    confidence: "high"
+
+  - question: "Is it allowed to download Kajabi course content?"
+    answer: "Downloading Kajabi courses is subject to the platform's terms of service and copyright laws. Most educational platforms allow offline viewing through their official apps but prohibit redistribution or sharing. Always respect intellectual property rights and only download content you've purchased or have legitimate access to."
+    source: "expert_knowledge_base"
+    confidence: "high"
+
+  - question: "What formats do Kajabi course downloads come in?"
+    answer: "Kajabi course downloads typically come in MP4 format for videos, and may include PDF files for course materials, subtitles in SRT format, and audio files in MP3 format. The exact formats depend on the original content and the downloader used."
+    source: "expert_knowledge_base"
+    confidence: "medium"
+
+  - question: "Can I download Kajabi courses to multiple devices?"
+    answer: "This depends on Kajabi's licensing terms. Many platforms allow downloads to a limited number of devices per account. Check your subscription details and the platform's device limits. Using third-party downloaders may violate terms of service."
+    source: "expert_knowledge_base"
+    confidence: "medium"
+
+  - question: "How do I organize downloaded Kajabi course materials?"
+    answer: "Best practices for organizing downloaded Kajabi courses: 1) Create folders by course name and instructor, 2) Maintain original file names when possible, 3) Include course descriptions and syllabi, 4) Back up important courses, 5) Use media management software for better organization."
+    source: "expert_knowledge_base"
+    confidence: "low"
+
+last_updated: "2025-09-20T09:33:28.985Z"
+
+notes:
+  - "FAQs generated based on common user questions and industry best practices"
+  - "Content includes legal disclaimers and responsible usage guidelines"
+  - "Answers are comprehensive yet concise for better user experience"
+  - "All recommendations emphasize respecting copyright and terms of service"
