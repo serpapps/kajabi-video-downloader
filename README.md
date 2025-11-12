@@ -1,6 +1,6 @@
 # Kajabi Video Downloader
 
-We're excited to launch the **Kajabi Video Downloader** - a Chrome extension that lets you download and permanently keep the Kajabi courses you've purchased.
+The Kajabi Video Downloader is a Chrome extension that lets you download, save & organize your Kajabi course data & videos.
 
 ### ✨ Key Features
 
