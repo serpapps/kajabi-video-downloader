@@ -2,14 +2,24 @@
 
 The Kajabi Video Downloader is a Chrome extension that lets you download, save & organize your Kajabi course data & videos.
 
-### ✨ Key Features
+## ✨ Key Features
 
-**📚 Batch Download Support**
-- Queue multiple lessons for sequential downloading
-- Smart throttle protection prevents platform blocking
-- Auto-retry and recovery from rate limits
-- Background processing while you work on other tasks
-- Process entire modules efficiently
+- One-click download from any video page
+- 100% privacy-friendly – no tracking or data collection
+- Auto-detect videos on the page
+- Floating download button
+- 1-on-1 support via our community
+- Native Kajabi hosted videos
+- Kajabi course player subdomains
+- Custom domain setups
+- Direct MP4 extraction
+- Direct WebM extraction
+- Automatic HLS stream to MP4 conversion
+- Progressive video downloads
+- Adaptive streaming conversion
+- Automatic highest quality selection
+- Manual quality override options
+
 
 
 ## 🔗 Links
@@ -27,29 +37,6 @@ The Kajabi Video Downloader is a Chrome extension that lets you download, save &
 - 🎓 [Courses](https://serp.ly/@serp/courses)
 
 
-
-
-
-**🎯 Comprehensive Platform Support**
-- Native Kajabi hosted videos
-- Kajabi course player subdomains
-- Custom domain setups
-- **Embedded Vimeo content**
-- **Embedded Wistia videos**
-- **Embedded YouTube videos**
-- **Embedded Loom recordings**
-- **Native Skool embeds**
-- Gated modules and membership-restricted content
-- Coaching programs and premium courses
-
-**🎬 Multiple Video Format Support**
-- Direct MP4 extraction
-- Direct WebM extraction
-- Automatic HLS stream to MP4 conversion
-- Progressive video downloads
-- Adaptive streaming conversion
-- Automatic highest quality selection
-- Manual quality override options
 
 **📝 Subtitle Integration**
 - Automatic caption detection across all video sources
