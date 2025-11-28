@@ -124,3 +124,10 @@ Please use this tool responsibly and in accordance with:
 **Supported Sources:** Kajabi native, Vimeo, Wistia, YouTube, Loom, Skool
 **Download Types:** MP4, WebM, HLS conversion
 **Subtitle Formats:** WebVTT (merge + separate download)  
+
+
+## Related
+
+- https://github.com/serpapps/kajabi-video-downloader/
+- [Kajabi video downloader](https://gist.github.com/devinschumacher/fc36d6910ab8eb6a7a8f155429bb49d8)
+- [How to download Kajabi videos](https://gist.github.com/devinschumacher/c5b09ecc5ef22342b9d5d605de73d6ef)
