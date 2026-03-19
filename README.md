@@ -1,133 +1,163 @@
-# Kajabi Video Downloader
+# Kajabi Downloader (Browser Extension)
 
-The Kajabi Video Downloader is a Chrome extension that lets you download, save & organize your Kajabi course data & videos.
+> Download Kajabi lesson videos and supported embedded course videos as MP4 files for offline study.
 
-## ✨ Key Features
+Kajabi Downloader is a browser extension built for students, creators, and teams who want a simpler way to save Kajabi lesson videos for offline access. It works with supported embedded lesson providers commonly used inside Kajabi, giving you a browser-first workflow for detecting the lesson video, choosing a quality, and exporting an MP4 file you can replay later.
 
-- One-click download from any video page
-- 100% privacy-friendly – no tracking or data collection
-- Auto-detect videos on the page
-- Floating download button
-- 1-on-1 support via our community
-- Native Kajabi hosted videos
-- Kajabi course player subdomains
-- Custom domain setups
-- Direct MP4 extraction
-- Direct WebM extraction
-- Automatic HLS stream to MP4 conversion
-- Progressive video downloads
-- Adaptive streaming conversion
-- Automatic highest quality selection
-- Manual quality override options
+- Save Kajabi lesson videos as MP4 files
+- Capture supported embedded lesson videos from Loom, Vimeo, Wistia, and YouTube
+- Choose from the quality levels exposed by the source
+- Keep local copies for offline study, review, or creator archives
+- Use a browser workflow instead of juggling multiple site-specific tools
 
+## Links
 
+- 🚀 Get it here: [Kajabi Downloader](https://serp.ly/kajabi-downloader)
+- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/kajabi-video-downloader/releases/latest)
+- ❓ Help center: [SERP Help](https://help.serp.co/en/)
+- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/kajabi-video-downloader/issues)
+- 💡 Request features: [Feature Requests](https://github.com/serpapps/kajabi-video-downloader/issues)
 
-## 🔗 Links
+## Preview
 
-- 🎁 Get it [here](https://serp.ly/kajabi-video-downloader)
-- ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
-- 🐛 Report bugs [here](https://github.com/serpapps/kajabi-video-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/kajabi-video-downloader/issues)
+![Kajabi Downloader workflow preview](assets/workflow-preview.svg)
 
-### Resources
+## Table of Contents
 
-- 💬 [Community](https://serp.ly/@serp/community)
-- 💌 [Newsletter](https://serp.ly/@serp/email)
-- 🛒 [Shop](https://serp.ly/@serp/store)
-- 🎓 [Courses](https://serp.ly/@serp/courses)
+- [Why Kajabi Downloader](#why-kajabi-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Step-by-Step Tutorial: How to Download Videos from Kajabi](#step-by-step-tutorial-how-to-download-videos-from-kajabi)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Troubleshooting](#troubleshooting)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Notes](#notes)
+- [About Kajabi](#about-kajabi)
 
+## Why Kajabi Downloader
 
+Kajabi courses often combine private or embedded lesson players from multiple providers like Loom, Vimeo, Wistia, and YouTube. That creates a messy download experience because there is no built-in lesson export flow, and generic downloader tools do not consistently recognize the embedded player stack across Kajabi sites.
 
-**📝 Subtitle Integration**
-- Automatic caption detection across all video sources
-- WebVTT subtitle merging directly into MP4 files
-- Separate subtitle file downloads for other formats
-- Maintains timing synchronization
-- Preserves accessibility features
+Kajabi Downloader is built for that exact use case. It focuses on supported Kajabi lesson pages, detects the available lesson media in your browser session, and gives you a direct way to save accessible course content as MP4.
 
-**🗂️ Smart Organization**
-- Intelligent file naming based on course structure
-- Automatic chapter and module ordering
-- Lesson context preservation
-- Files organized as: `Course-Name_Chapter-03_Lesson-Title.mp4`
-- No manual reorganization needed
+## Features
 
-**🔐 Secure Authentication Handling**
-- Works with member-only and gated courses
-- Credential prompting when needed
-- Session forwarding for locked content
-- Uses your existing Kajabi access automatically
+- Video detection for Kajabi lesson and course pages
+- Embedded lesson support for Loom, Vimeo, Wistia, and YouTube
+- Quality selection for available stream resolutions
+- MP4 export for easier offline playback and sharing
+- Popup workflow for reviewing detected lesson media
+- Progress tracking during active downloads
+- Concurrent download support for supported workflows
+- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
-**🔒 Privacy & Security**
-- All processing happens locally on your device
-- Uses your existing Kajabi session (no password storage)
-- Manifest V3 compliant
-- No third-party ad trackers
-- Works only with courses you have legitimate access to
-- No data collection beyond license verification
+## How It Works
 
-### 🚀 Getting Started
+1. Install the extension from the latest release.
+2. Open a Kajabi lesson page with video.
+3. Start playback so the extension can detect the lesson media.
+4. Open the popup to review available stream options.
+5. Choose the quality you want.
+6. Download the lesson and save the final MP4 file locally.
 
-1. Install the extension from the Chrome Web Store
-2. Activate with your license key (one-time setup)
-3. Navigate to any Kajabi course lesson
-4. Click the extension icon to see available videos
-5. Queue single lessons or multiple lessons at once
-6. Monitor queue progress with real-time updates
-7. Collect your organized files with subtitles included
+## Step-by-Step Tutorial: How to Download Videos from Kajabi
 
-### 📋 Requirements
+1. Install Kajabi Downloader from the latest GitHub release.
+2. Sign in to the Kajabi course or membership where you already have access.
+3. Open the lesson page you want to save.
+4. Let the page load fully and press play on the lesson video.
+5. Click the extension button in your browser toolbar.
+6. Review the detected embedded player or stream options.
+7. Select the quality you want to keep.
+8. Start the download and wait for the MP4 export to finish.
+9. Open the saved file from your Downloads folder.
 
-- Chrome 88+ or Chromium-based browser (Edge, Brave, Opera, Vivaldi)
-- Active Kajabi course access with valid credentials
-- Active internet connection
-- Sufficient storage space (typically 2-10GB per full course)
-- Multi-core processor recommended for faster stream conversion
+## Supported Formats
 
-### 💡 Use Cases
+- Input: Supported embedded Loom, Vimeo, Wistia, and YouTube lesson players
+- Output: MP4
 
-- **Stop paying monthly subscriptions** for courses you already own
-- Keep permanent access to purchased educational content
-- Create offline backup libraries for travel or areas with poor connectivity
-- Study anywhere without streaming or buffering issues
-- Preserve educational content long-term before creators remove it
-- Build a personal learning library you control
-- Prepare course materials for offline commutes
-- Organize multiple courses efficiently with batch downloads
+Saved files use MP4 so they are easier to replay on standard media players, move between devices, and keep in a local learning archive.
 
-### 🎯 What Makes This Different
+## Who It's For
 
-- **Queue-based workflow** - Download entire modules efficiently, not just single videos
-- **Throttle protection** - Built-in detection prevents platform blocking during large exports
-- **Subtitle preservation** - Automatically includes captions for accessibility
-- **Course structure awareness** - Files named and organized by your course hierarchy
-- **Gated content support** - Handles member-only courses seamlessly
-- **Multi-source support** - Works across Kajabi's entire ecosystem including Vimeo, Wistia, YouTube, Loom, and Skool embeds
+- Kajabi students who want offline access to lessons
+- Course creators backing up their own training material
+- Teams archiving internal lessons or membership videos
+- Users saving course videos before access changes
+- Anyone who wants a browser-based workflow instead of manual stream extraction
 
-### ⚖️ Important Notes
+## Common Use Cases
 
-Please use this tool responsibly and in accordance with:
-- Kajabi's terms of service
-- Applicable copyright laws and intellectual property rights
-- Course creator licensing terms
-- Only download courses you have legitimate access to
-- Downloaded materials are for backup, authorized migration, or personal use
-- Obtain consent before sharing or reusing creator content
+- Save a Kajabi lesson for offline study
+- Download embedded Vimeo or Loom training videos
+- Archive your own uploaded Kajabi lesson content
+- Keep local copies for travel or low-connectivity study
+- Review purchased course content without streaming every time
 
-**This tool requires legitimate course access and respects creator rights.**
+## Troubleshooting
 
-### 📊 Technical Details
+**The extension is not detecting the lesson video**  
+Press play first and wait a few seconds so the stream has time to initialize.
 
-**Manifest Version:** V3 (Latest Chrome security standard)
-**Version:** 1.0.0
-**Release Date:** January 17, 2025
-**Supported Sources:** Kajabi native, Vimeo, Wistia, YouTube, Loom, Skool
-**Download Types:** MP4, WebM, HLS conversion
-**Subtitle Formats:** WebVTT (merge + separate download)  
+**No quality options are showing**  
+Some lesson pages expose a single playable stream variant, especially on certain embedded players.
 
+**The lesson uses a custom Kajabi domain**  
+That is supported as long as the page is Kajabi-powered and the player is exposed to the browser session.
 
-## Related
+**The lesson requires login or membership access**  
+The extension only works on content you can already access in your active Kajabi session.
 
-- https://github.com/serpapps/kajabi-video-downloader/
-- [Kajabi video downloader](https://gist.github.com/devinschumacher/fc36d6910ab8eb6a7a8f155429bb49d8)
-- [How to download Kajabi videos](https://gist.github.com/devinschumacher/c5b09ecc5ef22342b9d5d605de73d6ef)
+**The download did not start**  
+Refresh the lesson page, replay the video, and try again once the player is fully loaded.
+
+## Trial & Access
+
+- Includes **3 free downloads** so you can test the workflow first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the trial
+- Unlimited downloads are available with a paid license
+
+Start here: [https://serp.ly/kajabi-downloader](https://serp.ly/kajabi-downloader)
+
+## Installation Instructions
+
+1. Open the latest release page:
+   [https://github.com/serpapps/kajabi-video-downloader/releases/latest](https://github.com/serpapps/kajabi-video-downloader/releases/latest)
+2. Download the extension build for your browser.
+3. Install the extension.
+4. Open a Kajabi lesson page.
+5. Use the extension controls to detect and download the video.
+
+## FAQ
+
+**Can I download Kajabi videos from custom domains?**  
+Yes. The extension is designed to work on Kajabi-powered lesson pages, including many custom domains.
+
+**Do I need to press play first?**  
+Yes. Many lesson sources are only exposed after playback begins.
+
+**What file format do downloads use?**  
+Videos are saved as MP4 files.
+
+**Do I need extra software?**  
+No. Everything runs through the browser extension.
+
+**Why does Kajabi need its own downloader?**  
+Because Kajabi courses often mix several embedded lesson providers, and generic tools rarely handle that consistently inside the actual course environment.
+
+## Notes
+
+- Only download content you own or have explicit permission to save
+- The extension only works on media you can already play in your browser session
+- Video quality depends on the source stream exposed on that lesson page
+- An internet connection is required for the initial download
+
+## About Kajabi
+
+Kajabi is used for memberships, course programs, coaching offers, and creator education products. Because Kajabi lessons often rely on embedded players rather than a single native delivery path, there is no simple universal built-in download flow for students. Kajabi Downloader simplifies that process for users who need a local MP4 copy of accessible lesson content.
