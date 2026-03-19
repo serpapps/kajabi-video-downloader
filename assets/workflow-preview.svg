@@ -14,13 +14,13 @@
   <rect x="110" y="286" width="310" height="228" rx="20" fill="#115e59"/>
   <rect x="452" y="286" width="310" height="228" rx="20" fill="#0f766e"/>
   <rect x="794" y="286" width="374" height="228" rx="20" fill="#14b8a6"/>
-  <text x="140" y="350" fill="#ccfbf1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">1. Open the lesson</text>
-  <text x="140" y="394" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">Load the Kajabi lesson and press</text>
-  <text x="140" y="426" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">play on the embedded video.</text>
-  <text x="482" y="350" fill="#ccfbf1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">2. Detect the source</text>
-  <text x="482" y="394" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">Review supported Loom, Vimeo,</text>
-  <text x="482" y="426" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">Wistia, or YouTube options.</text>
-  <text x="824" y="350" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">3. Save the lesson</text>
-  <text x="824" y="394" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Export the lesson as MP4 for</text>
-  <text x="824" y="426" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22">offline study later.</text>
+  <text x="140" y="350" fill="#ccfbf1" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">1. Load lesson</text>
+  <text x="140" y="394" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="20">Open the Kajabi lesson and</text>
+  <text x="140" y="426" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="20">press play on the video.</text>
+  <text x="482" y="350" fill="#ccfbf1" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">2. Detect source</text>
+  <text x="482" y="394" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="20">Review the supported player</text>
+  <text x="482" y="426" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="20">options for this lesson.</text>
+  <text x="824" y="350" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">3. Save lesson</text>
+  <text x="824" y="394" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="20">Export the lesson as MP4</text>
+  <text x="824" y="426" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="20">for offline study later.</text>
 </svg>
