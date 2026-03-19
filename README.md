@@ -137,19 +137,19 @@ Start here: [https://serp.ly/kajabi-downloader](https://serp.ly/kajabi-downloade
 
 ## FAQ
 
-**Can I download Kajabi videos from custom domains?**  
+**Can I download Kajabi videos from custom domains**  
 Yes. The extension is designed to work on Kajabi-powered lesson pages, including many custom domains.
 
-**Do I need to press play first?**  
+**Do I need to press play first**  
 Yes. Many lesson sources are only exposed after playback begins.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
-**Why does Kajabi need its own downloader?**  
+**Why does Kajabi need its own downloader**  
 Because Kajabi courses often mix several embedded lesson providers, and generic tools rarely handle that consistently inside the actual course environment.
 
 ## Notes
