@@ -20,7 +20,7 @@ Kajabi Downloader is a browser extension built for students, creators, and teams
 
 ## Preview
 
-![Kajabi Downloader workflow preview](assets/workflow-preview.svg)
+![Kajabi Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
