@@ -1,22 +1,22 @@
 # Kajabi Downloader (Browser Extension)
 
-> Download Kajabi lesson videos and supported embedded course videos as MP4 files for offline study.
+> Download supported Kajabi lesson videos and embedded course videos as MP4 files for offline study.
 
-Kajabi Downloader is a browser extension built for students, creators, and teams who want a simpler way to save Kajabi lesson videos for offline access. It works with supported embedded lesson providers commonly used inside Kajabi, giving you a browser-first workflow for detecting the lesson video, choosing a quality, and exporting an MP4 file you can replay later.
+Kajabi Downloader is a browser extension built for students, creators, and teams who want a simpler way to save supported Kajabi lesson videos for offline access. It works with common embedded lesson providers used inside Kajabi, giving you a browser-first workflow for detecting the lesson video, choosing a quality, and exporting an MP4 file you can replay later.
 
-- Save Kajabi lesson videos as MP4 files
-- Capture supported embedded lesson videos from Loom, Vimeo, Wistia, and YouTube
+- Save supported Kajabi lesson videos as MP4 files
+- Detect supported embedded lesson videos from Loom, Vimeo, Wistia, and YouTube
 - Choose from the quality levels exposed by the source
 - Keep local copies for offline study, review, or creator archives
 - Use a browser workflow instead of juggling multiple site-specific tools
 
 ## Links
 
-- 🚀 Get it here: [Kajabi Downloader](https://serp.ly/kajabi-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/kajabi-video-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/kajabi-video-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/kajabi-video-downloader/issues)
+- :rocket: Get it here: [Kajabi Downloader](https://serp.ly/kajabi-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/kajabi-video-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/kajabi-video-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/kajabi-video-downloader/issues)
 
 ## Preview
 
@@ -36,6 +36,7 @@ Kajabi Downloader is a browser extension built for students, creators, and teams
 - [Installation Instructions](#installation-instructions)
 - [FAQ](#faq)
 - [Notes](#notes)
+- [License](#license)
 - [About Kajabi](#about-kajabi)
 
 ## Why Kajabi Downloader
@@ -157,6 +158,10 @@ Because Kajabi courses often mix several embedded lesson providers, and generic 
 - The extension only works on media you can already play in your browser session
 - Video quality depends on the source stream exposed on that lesson page
 - An internet connection is required for the initial download
+
+## License
+
+This repository includes an MIT license in [LICENSE.md](LICENSE.md).
 
 ## About Kajabi
 

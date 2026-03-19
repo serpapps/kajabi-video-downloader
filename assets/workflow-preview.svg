@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Kajabi Downloader workflow preview</title>
+  <desc id="desc">Stylized preview card for the Kajabi Downloader workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="72" y="72" width="1136" height="576" rx="28" fill="#081a18" fill-opacity="0.9" stroke="#99f6e4" stroke-opacity="0.45"/>
+  <text x="110" y="170" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Kajabi Downloader</text>
+  <text x="110" y="222" fill="#99f6e4" font-family="Segoe UI, Arial, sans-serif" font-size="28">Open the lesson, detect the player, save MP4.</text>
+  <rect x="110" y="286" width="310" height="228" rx="20" fill="#115e59"/>
+  <rect x="452" y="286" width="310" height="228" rx="20" fill="#0f766e"/>
+  <rect x="794" y="286" width="374" height="228" rx="20" fill="#14b8a6"/>
+  <text x="140" y="350" fill="#ccfbf1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">1. Open the lesson</text>
+  <text x="140" y="394" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">Load the Kajabi lesson and press</text>
+  <text x="140" y="426" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">play on the embedded video.</text>
+  <text x="482" y="350" fill="#ccfbf1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">2. Detect the source</text>
+  <text x="482" y="394" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">Review supported Loom, Vimeo,</text>
+  <text x="482" y="426" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="22">Wistia, or YouTube options.</text>
+  <text x="824" y="350" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">3. Save the lesson</text>
+  <text x="824" y="394" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Export the lesson as MP4 for</text>
+  <text x="824" y="426" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22">offline study later.</text>
+</svg>
