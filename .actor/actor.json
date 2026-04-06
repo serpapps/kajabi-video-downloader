@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Kajabi Video Downloader helps you keep the lessons you already paid for. It recognizes Kajabi-hosted videos along with supported embeds inside lessons, queues modules for download, and converts streams into organized MP4 files for offline access.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "kajabi-video-downloader",
+  "readme": "../README.md",
+  "title": "Kajabi Video Downloader",
+  "version": "0.0"
+}
