@@ -1,0 +1,24 @@
+{
+    "name": "serpapps/kajabi-video-downloader",
+    "type": "library",
+    "description": "Download videos from your Kajabi courses for offline viewing",
+    "keywords": [
+        "kajabi-video-downloader",
+        "kajabi-downloader",
+        "browser-extension",
+        "course-video-downloader",
+        "membership-site-downloader"
+    ],
+    "homepage": "https://github.com/serpapps/kajabi-video-downloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SERP Apps",
+            "homepage": "https://github.com/serpapps",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
