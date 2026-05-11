@@ -1,5 +1,11 @@
 # Kajabi Downloader (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=eyUMedWRo2Q" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/kajabi-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 > Download supported Kajabi lesson videos and embedded course videos as MP4 files for offline study.
 
 Kajabi Downloader is a browser extension built for students, creators, and teams who want a simpler way to save supported Kajabi lesson videos for offline access. It works with common embedded lesson providers used inside Kajabi, giving you a browser-first workflow for detecting the lesson video, choosing a quality, and exporting an MP4 file you can replay later.
