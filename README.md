@@ -20,7 +20,9 @@ Kajabi Downloader is a browser extension built for students, creators, and teams
 
 ## Preview
 
-![Kajabi Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=eyUMedWRo2Q" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/kajabi-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
